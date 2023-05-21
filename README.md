@@ -11,7 +11,6 @@
  ## The objective of this task being fraud detection. 
  ## Dataset  
  The dataset files for part 1, 2, 3 and 4 can be found below: 
- <http://bit.ly/CarreFourDataset>
- Part 1 and 2: Dataset [Link (Links to an external site.)]. 
- Part 3: Dataset [Link (Links to an external site.)]. 
- Part 4: Dataset [Link (Links to an external site.)]. 
+ Part 1 and 2: Dataset <http://bit.ly/CarreFourDataset>. 
+ Part 3: Dataset <http://bit.ly/SupermarketDatasetII>. 
+ Part 4: Dataset <http://bit.ly/CarreFourSalesDataset> . 
